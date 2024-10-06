@@ -1,0 +1,100 @@
+#AnchorPage {
+    -fx-background-color: #a66c0f;
+}
+
+
+#MenuBar {
+    -fx-background-color: #8a3504;
+}
+
+#ID {
+    -fx-background-color: lightgray;
+    -fx-text-fill: white;
+}
+
+#Fname {
+    -fx-background-color: lightgray;
+    -fx-text-fill: white;
+}
+
+#Lname {
+    -fx-background-color: lightgray;
+    -fx-text-fill: white;
+}
+
+#Dep {
+    -fx-background-color: lightgray;
+    -fx-text-fill: white;
+}
+
+#Major {
+    -fx-background-color: lightgray;
+    -fx-text-fill: white;
+}
+
+#Email {
+    -fx-background-color: lightgray;
+    -fx-text-fill: white;
+}
+
+#right {
+    -fx-background-color: #00f600;
+}
+
+#bottom {
+    -fx-background-color: gray;
+}
+
+#left {
+    -fx-background-color: white;
+}
+
+#text1 {
+    -fx-background-color: white;
+}
+
+#text2 {
+    -fx-background-color: white;
+}
+
+#text3 {
+    -fx-background-color: white;
+}
+
+#text4 {
+    -fx-background-color: white;
+}
+
+#text5 {
+    -fx-background-color: white;
+}
+
+#text6 {
+    -fx-background-color: white;
+}
+
+#add {
+    -fx-background-color: #a66c0f;
+    -fx-text-fill: black;
+}
+
+#clear {
+    -fx-background-color: #a66c0f;
+    -fx-text-fill: black;
+}
+
+#delete {
+    -fx-background-color: #a66c0f;
+    -fx-text-fill: black;
+}
+
+#edit {
+    -fx-background-color: #a66c0f;
+    -fx-text-fill: black;
+}
+
+
+
+
+
+
